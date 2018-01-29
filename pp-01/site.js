@@ -1,6 +1,5 @@
-$('#clicker').on('click',
-  function(e)
-  {$(this).html('I have been clicked');
-  e.preventDefault();
-}
+$('#contact-form').on('submit',
+  function() {
+    console.log('The form was submitted.');
+  }
 );
