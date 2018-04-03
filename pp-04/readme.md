@@ -32,6 +32,11 @@ Small commits to your Production Problems repository that include:
 
 * HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/adaptivity-and-layout/
 * How you implemented it in your sketch:
-
+I wanted to implement the auto layout from the I phone HCI to implement a simpler
+layout while still having the iit alert on the bottom of the login because I think
+most users of the website just want to log in and it is very hard to
+tap on the login elements to login.
+I want to push the alert underneath the login so that it is still there just not in
+the way.
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
