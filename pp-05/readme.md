@@ -20,13 +20,13 @@ your own master usability checklist.
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Site search easy to access
+2. Main copy is concise & Explanatory
+3. Home page is digestible in 5-seconds
+4. Field labels on forms clearly explain entries needed
+5. Forms are validated before submission
+6. Free of distracting information
+7. Typing is minimum
+8. Category labels accurately describe the information in the Category
+9. Font size and spacing is easy to ready
+10. Content is arranged properly
