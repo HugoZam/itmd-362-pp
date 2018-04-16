@@ -15,8 +15,8 @@ your own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. http://www.legaltechdesign.com/LegalDesignToolbox/2015/04/29/userfocus-web-usability-checklist-guide/
+2. https://araghu.wordpress.com/2016/02/27/the-25-point-website-usability-checklist/
 
 * Your own condensed, ten-item must-have usability checklist:
 
